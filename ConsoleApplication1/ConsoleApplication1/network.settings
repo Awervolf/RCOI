@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ConsoleApplication1" GeneratedClassName="network">
+  <Profiles />
+  <Settings>
+    <Setting Name="IP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="Port" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">27015</Value>
+    </Setting>
+    <Setting Name="Scheme" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http</Value>
+    </Setting>
+    <Setting Name="rootPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\FlyCat\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\data\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

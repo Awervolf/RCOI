@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="1.0.0">
+    <id>MimeSharp</id>
+    <version>1.0.0</version>
+    <title>MimeSharp</title>
+    <authors>Ujjwol Lamichhane</authors>
+    <owners>Ujjwol Lamichhane</owners>
+    <licenseUrl>https://github.com/Ujjwol/MimeSharp/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Ujjwol/MimeSharp</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>MIME type handling utility for C#.  Allows user to lookup mime type by filename, get file extensions for mime types. Includes all 600+ types and 800+ extensions defined by the Apache project.</description>
+    <summary>MIME type handling utility for C#.  Allows user to lookup mime type by filename, get file extensions for mime types. Includes all 600+ types and 800+ extensions defined by the Apache project.</summary>
+    <releaseNotes>First Stable Release</releaseNotes>
+    <copyright>Ujjwol Lamichhane</copyright>
+    <language>en-US</language>
+    <tags>mimesharp mime-type mime extension file file-extension mime type</tags>
+  </metadata>
+</package>
